@@ -1,3 +1,6 @@
+// Fractal tree
+// Credits goes to The Coding Train
+
 var angle = 0
 
 var slider;
